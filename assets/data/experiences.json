@@ -6,7 +6,7 @@
     "endAt": "12-24-2010",
     "companyName": "Fácil Tecnologias",
     "website": "http://www.faciltecnologias.com.br/",
-    "logo": "../live-resume/assets/template/experience/logo/facil-logo.png",
+    "logo": "/live-resume/assets/template/experience/logo/facil-logo.png",
     "internationalizations": [
       {
         "language": "pt",
@@ -49,7 +49,7 @@
         "http": "https://www.facebook.com/editoranossotransito/"
       }
     ],
-    "backgroundUrl": "../live-resume/assets/template/experience/uberaba.jpg"
+    "backgroundUrl": "/live-resume/assets/template/experience/uberaba.jpg"
   },
   {
     "id": 2,
@@ -109,7 +109,7 @@
         "http": "https://www.instagram.com/somos_etatica/"
       }
     ],
-    "backgroundUrl": "../live-resume/assets/template/experience/rio.jpg"
+    "backgroundUrl": "/live-resume/assets/template/experience/rio.jpg"
   },
   {
     "id": 3,
@@ -118,7 +118,7 @@
     "endAt": "12-23-2016",
     "companyName": "Deevo Studio",
     "website": "http://deevo.com.br/",
-    "logo": "../live-resume/assets/template/experience/logo/deevo-logo.png",
+    "logo": "/live-resume/assets/template/experience/logo/deevo-logo.png",
     "internationalizations": [
       {
         "language": "pt",
@@ -164,7 +164,7 @@
         "http": "https://www.linkedin.com/company/deevo/about/"
       }
     ],
-    "backgroundUrl": "../live-resume/assets/template/experience/sao-paulo.jpg"
+    "backgroundUrl": "/live-resume/assets/template/experience/sao-paulo.jpg"
   },
   {
     "id": 4,
@@ -172,7 +172,7 @@
     "startAt": "01-02-2017",
     "endAt": "11-30-2017",
     "companyName": "Skydreamer",
-    "logo": "../live-resume/assets/template/experience/logo/skydreamer-logo.png",
+    "logo": "/live-resume/assets/template/experience/logo/skydreamer-logo.png",
     "internationalizations": [
       {
         "language": "pt",
@@ -224,7 +224,7 @@
         "http": "https://www.facebook.com/skydreamer.io/"
       }
     ],
-    "backgroundUrl": "../live-resume/assets/template/experience/utrecht.jpg"
+    "backgroundUrl": "/live-resume/assets/template/experience/utrecht.jpg"
   },
   {
     "id": 5,
@@ -233,7 +233,7 @@
     "endAt": "04-15-2020",
     "companyName": "QAT Global",
     "website": "https://www.qat.com/",
-    "logo": "../live-resume/assets/template/experience/logo/qat-global-logo.png",
+    "logo": "/live-resume/assets/template/experience/logo/qat-global-logo.png",
     "internationalizations": [
       {
         "language": "pt",
@@ -287,7 +287,7 @@
         "http": "https://www.youtube.com/c/QatGlobal-USA"
       }
     ],
-    "backgroundUrl": "../live-resume/assets/template/experience/uberaba.jpg"
+    "backgroundUrl": "/live-resume/assets/template/experience/uberaba.jpg"
   },
   {
     "id": 6,
@@ -295,7 +295,7 @@
     "startAt": "05-01-2020",
     "companyName": "Swisscom AG",
     "website": "https://www.swisscom.ch/",
-    "logo": "../live-resume/assets/template/experience/logo/swisscom-logo.png",
+    "logo": "/live-resume/assets/template/experience/logo/swisscom-logo.png",
     "internationalizations": [
       {
         "language": "pt",
@@ -349,6 +349,6 @@
         "http": "https://www.youtube.com/swisscom"
       }
     ],
-    "backgroundUrl": "../live-resume/assets/template/experience/rotterdam.jpg"
+    "backgroundUrl": "/live-resume/assets/template/experience/rotterdam.jpg"
   }
 ]
