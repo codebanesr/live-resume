@@ -6,7 +6,7 @@
         "endAt": "12-24-2010",
         "companyName": "Fácil Tecnologias",
         "website": "http://www.faciltecnologias.com.br/",
-        "logo": "../../assets/template/experience/logo/facil-logo.png",
+        "logo": "../.assets/template/experience/logo/facil-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -24,7 +24,23 @@
             }
         ],
         "technologies": [
-            "PHP", "Zend Framework", "Cake Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "AJAX", "SOAP", "Joomla", "Wordpress", "SVN", "SQL", "MySQL", "PostgreSQL", "Windows"
+            "PHP",
+            "Zend Framework",
+            "Cake Framework",
+            "HTML",
+            "CSS",
+            "CSS3",
+            "Javascript",
+            "jQuery",
+            "AJAX",
+            "SOAP",
+            "Joomla",
+            "Wordpress",
+            "SVN",
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "Windows"
         ],
         "medias": [
             {
@@ -33,7 +49,7 @@
                 "http": "https://www.facebook.com/editoranossotransito/"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+        "backgroundUrl": "../.assets/template/experience/uberaba.jpg"
     },
     {
         "id": 2,
@@ -42,7 +58,7 @@
         "endAt": "06-16-2014",
         "companyName": "E-tática",
         "website": "https://www.e-tatica.com/",
-        "logo": "../../assets/template/experience/logo/etatica-logo.png",
+        "logo": "../.assets/template/experience/logo/etatica-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -60,7 +76,21 @@
             }
         ],
         "technologies": [
-            "Magento 1.X", "PHP", "Zend Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "SOAP", "Wordpress", "SVN", "Payment Services", "SSH", "SSL", "Linux"
+            "Magento 1.X",
+            "PHP",
+            "Zend Framework",
+            "HTML",
+            "CSS",
+            "CSS3",
+            "Javascript",
+            "jQuery",
+            "SOAP",
+            "Wordpress",
+            "SVN",
+            "Payment Services",
+            "SSH",
+            "SSL",
+            "Linux"
         ],
         "medias": [
             {
@@ -79,7 +109,7 @@
                 "http": "https://www.instagram.com/somos_etatica/"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/rio.jpg"
+        "backgroundUrl": "../.assets/template/experience/rio.jpg"
     },
     {
         "id": 3,
@@ -88,7 +118,7 @@
         "endAt": "12-23-2016",
         "companyName": "Deevo Studio",
         "website": "http://deevo.com.br/",
-        "logo": "../../assets/template/experience/logo/deevo-logo.png",
+        "logo": "../.assets/template/experience/logo/deevo-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -106,7 +136,26 @@
             }
         ],
         "technologies": [
-            "Java (Android)", "Wordpress", "HTML", "HTML5", "CSS", "CSS3", "Javascript", "jQuery", "Google APIs", "SQL", "MySQL", "PHP", "Slim Framework", "Laravel", "SMTP", "Versioning Control", "BitBucket", "Jira", "Git", "Kanban framework"
+            "Java (Android)",
+            "Wordpress",
+            "HTML",
+            "HTML5",
+            "CSS",
+            "CSS3",
+            "Javascript",
+            "jQuery",
+            "Google APIs",
+            "SQL",
+            "MySQL",
+            "PHP",
+            "Slim Framework",
+            "Laravel",
+            "SMTP",
+            "Versioning Control",
+            "BitBucket",
+            "Jira",
+            "Git",
+            "Kanban framework"
         ],
         "medias": [
             {
@@ -115,7 +164,7 @@
                 "http": "https://www.linkedin.com/company/deevo/about/"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/sao-paulo.jpg"
+        "backgroundUrl": "../.assets/template/experience/sao-paulo.jpg"
     },
     {
         "id": 4,
@@ -123,7 +172,7 @@
         "startAt": "01-02-2017",
         "endAt": "11-30-2017",
         "companyName": "Skydreamer",
-        "logo": "../../assets/template/experience/logo/skydreamer-logo.png",
+        "logo": "../.assets/template/experience/logo/skydreamer-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -141,7 +190,27 @@
             }
         ],
         "technologies": [
-            "HTML5", "CSS3", "Javascript", "jQuery", "PHP", "Laravel", "Slim Framework", "React", "React Native", "MySQL", "Elastic Search", "AWS", "Firebase", "Java", "Android", "Swift", "iOS", "Python (data scrapers)", "Scrum", "Unit Tests", "TDD"
+            "HTML5",
+            "CSS3",
+            "Javascript",
+            "jQuery",
+            "PHP",
+            "Laravel",
+            "Slim Framework",
+            "React",
+            "React Native",
+            "MySQL",
+            "Elastic Search",
+            "AWS",
+            "Firebase",
+            "Java",
+            "Android",
+            "Swift",
+            "iOS",
+            "Python (data scrapers)",
+            "Scrum",
+            "Unit Tests",
+            "TDD"
         ],
         "medias": [
             {
@@ -155,7 +224,7 @@
                 "http": "https://www.facebook.com/skydreamer.io/"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/utrecht.jpg"
+        "backgroundUrl": "../.assets/template/experience/utrecht.jpg"
     },
     {
         "id": 5,
@@ -164,7 +233,7 @@
         "endAt": "04-15-2020",
         "companyName": "QAT Global",
         "website": "https://www.qat.com/",
-        "logo": "../../assets/template/experience/logo/qat-global-logo.png",
+        "logo": "../.assets/template/experience/logo/qat-global-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -182,7 +251,24 @@
             }
         ],
         "technologies": [
-            "Java", "Spring Boot", "Play Framework", "Javascript", "jQuery", "AngularJS", "NoSQL", "MongoDB", "SQL", "PostgreSQL", "Unit Tests", "Integration Tests", "Versioning Control", "BitBucket", "Git", "Maven", "Scrum", "Linux"
+            "Java",
+            "Spring Boot",
+            "Play Framework",
+            "Javascript",
+            "jQuery",
+            "AngularJS",
+            "NoSQL",
+            "MongoDB",
+            "SQL",
+            "PostgreSQL",
+            "Unit Tests",
+            "Integration Tests",
+            "Versioning Control",
+            "BitBucket",
+            "Git",
+            "Maven",
+            "Scrum",
+            "Linux"
         ],
         "medias": [
             {
@@ -201,7 +287,7 @@
                 "http": "https://www.youtube.com/c/QatGlobal-USA"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+        "backgroundUrl": "../.assets/template/experience/uberaba.jpg"
     },
     {
         "id": 6,
@@ -209,7 +295,7 @@
         "startAt": "05-01-2020",
         "companyName": "Swisscom AG",
         "website": "https://www.swisscom.ch/",
-        "logo": "../../assets/template/experience/logo/swisscom-logo.png",
+        "logo": "../.assets/template/experience/logo/swisscom-logo.png",
         "internationalizations": [
             {
                 "language": "pt",
@@ -227,7 +313,24 @@
             }
         ],
         "technologies": [
-            "Java", "Spring Boot", "Angular", "Typescript", "Javascript", "SDX", "Versioning Control", "DevOps", "CI/CD", "JUnit", "Karma", "Jasmine", "Selenium", "Jenkins", "Docker", "NPM", "Gradle", "Jira"
+            "Java",
+            "Spring Boot",
+            "Angular",
+            "Typescript",
+            "Javascript",
+            "SDX",
+            "Versioning Control",
+            "DevOps",
+            "CI/CD",
+            "JUnit",
+            "Karma",
+            "Jasmine",
+            "Selenium",
+            "Jenkins",
+            "Docker",
+            "NPM",
+            "Gradle",
+            "Jira"
         ],
         "medias": [
             {
@@ -246,6 +349,6 @@
                 "http": "https://www.youtube.com/swisscom"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/rotterdam.jpg"
+        "backgroundUrl": "../.assets/template/experience/rotterdam.jpg"
     }
 ]
