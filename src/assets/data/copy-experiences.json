@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "position": 1,
+    "startAt": "02-02-2009",
+    "endAt": "12-24-2010",
+    "companyName": "Fácil Tecnologias",
+    "website": "http://www.faciltecnologias.com.br/",
+    "logo": "/live-resume/assets/template/experience/logo/facil-logo.png",
+    "internationalizations": [
+      {
+        "language": "pt",
+        "city": "Uberaba",
+        "country": "Brasil",
+        "role": "Estágio Webmaster",
+        "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+      },
+      {
+        "language": "en",
+        "city": "Uberaba",
+        "country": "Brazil",
+        "role": "Webmaster intern",
+        "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+      }
+    ],
+    "technologies": [
+      "PHP",
+      "Zend Framework",
+      "Cake Framework",
+      "HTML",
+      "CSS",
+      "CSS3",
+      "Javascript",
+      "jQuery",
+      "AJAX",
+      "SOAP",
+      "Joomla",
+      "Wordpress",
+      "SVN",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Windows"
+    ],
+    "medias": [
+      {
+        "icon": "facebook",
+        "title": "Facebook Editora Nosso Trânsito",
+        "http": "https://www.facebook.com/editoranossotransito/"
+      }
+    ],
+    "backgroundUrl": "/live-resume/assets/template/experience/uberaba.jpg"
+  },
+  {
+    "id": 2,
+    "position": 2,
+    "startAt": "01-03-2011",
+    "endAt": "06-16-2014",
+    "companyName": "E-tática",
+    "website": "https://www.e-tatica.com/",
+    "logo": "/live-resume/assets/template/experience/logo/etatica-logo.png",
+    "internationalizations": [
+      {
+        "language": "pt",
+        "city": "Rio de Janeiro",
+        "country": "Brasil",
+        "role": "Desenvolvedor Full-stack",
+        "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
+      },
+      {
+        "language": "en",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "role": "Full-stack Developer",
+        "description": "<b>E-tática</b> is an agency specialized in solutions for <i>e-commerce</i>, digital marketing, and visual identity since 2008, working with large, small, and medium-sized businesses, offering to their clients the know-how in the integration of <i>enterprise resource planning (ERP)</i> and <i>third-party APIs</i>, such as custom <i>payment providers</i>. It does the integration of the internal management of the online platform and physical store, being certified by the main platforms in the market.<br><br>At <i>E-tática</i> I have worked to develop custom solutions for clients wholesale and retail, valuing the quality and continuity of projects in the medium and long term."
+      }
+    ],
+    "technologies": [
+      "Magento 1.X",
+      "PHP",
+      "Zend Framework",
+      "HTML",
+      "CSS",
+      "CSS3",
+      "Javascript",
+      "jQuery",
+      "SOAP",
+      "Wordpress",
+      "SVN",
+      "Payment Services",
+      "SSH",
+      "SSL",
+      "Linux"
+    ],
+    "medias": [
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn E-tática",
+        "http": "https://www.linkedin.com/company/etatica/"
+      },
+      {
+        "icon": "facebook",
+        "title": "Facebook E-tática",
+        "http": "https://www.facebook.com/etatica/"
+      },
+      {
+        "icon": "instagram",
+        "title": "Instagram E-tática",
+        "http": "https://www.instagram.com/somos_etatica/"
+      }
+    ],
+    "backgroundUrl": "/live-resume/assets/template/experience/rio.jpg"
+  },
+  {
+    "id": 3,
+    "position": 3,
+    "startAt": "07-01-2014",
+    "endAt": "12-23-2016",
+    "companyName": "Deevo Studio",
+    "website": "http://deevo.com.br/",
+    "logo": "/live-resume/assets/template/experience/logo/deevo-logo.png",
+    "internationalizations": [
+      {
+        "language": "pt",
+        "city": "São Paulo",
+        "country": "Brasil",
+        "role": "Desenvolvedor Mobile",
+        "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
+      },
+      {
+        "language": "en",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "role": "Mobile Developer",
+        "description": "At <b>Deevo Studio</b> is a company specializing in <i>web design</i> and <i>development</i> with an extensive portfolio of cases, the result of <i>20 years</i> of experience with other agencies and the corporate market. Their creations involve everything from brand development and visual identity to the creation of applications and websites, with a wide knowledge of Wordpress and Web Technologies.<br><br>At <i>Deevo Studio</i>, I had the chance to use the previously back-end knowledge combined with practical experience in JAVA development to accept the challenge to start an <i>Android Development Department</i> in the company, delivering complex <i>Android Applications</i> to companies in Brazil."
+      }
+    ],
+    "technologies": [
+      "Java (Android)",
+      "Wordpress",
+      "HTML",
+      "HTML5",
+      "CSS",
+      "CSS3",
+      "Javascript",
+      "jQuery",
+      "Google APIs",
+      "SQL",
+      "MySQL",
+      "PHP",
+      "Slim Framework",
+      "Laravel",
+      "SMTP",
+      "Versioning Control",
+      "BitBucket",
+      "Jira",
+      "Git",
+      "Kanban framework"
+    ],
+    "medias": [
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn Deevo Studio",
+        "http": "https://www.linkedin.com/company/deevo/about/"
+      }
+    ],
+    "backgroundUrl": "/live-resume/assets/template/experience/sao-paulo.jpg"
+  },
+  {
+    "id": 4,
+    "position": 4,
+    "startAt": "01-02-2017",
+    "endAt": "11-30-2017",
+    "companyName": "DeepIQ",
+    "logo": "/live-resume/assets/template/experience/logo/deepiq.png",
+    "internationalizations": [
+      {
+        "language": "pt",
+        "city": "Utrecht",
+        "country": "Países Baixos",
+        "role": "Desenvolvedor Full-stack",
+        "description": "Na <b>Skydreamer Startup</b>, fui convidado para fazer parte da equipe de desenvolvimento do primeiro aplicativo móvel europeu que transformaria o planejamento de viagens entre amigos em um <i>Jogo de Swipe & Match</i>, oferecendo milhares de destinos em todo o mundo. Sempre com as melhores ofertas de voos, hotéis e apartamentos.<br><br>Na <i>Skydreamer</i>, tive a incrível experiência de vivenciar um <i> ambiente de startup</i>, os prós e os contras , expandindo minha mente de como liderar com o gerenciamento remoto, com prazos curtos e recursos muito limitados. Em setembro de 2017, com a versão <i>Beta</i> em execução e com vários usuários reais, fomos até a <i>TechCrunch Disrupt<i> em São Francisco, onde recebemos uma oferta de uma agência internacional de esportes e entretenimento."
+      },
+      {
+        "language": "en",
+        "city": "Hyderabad",
+        "country": "India",
+        "role": "Full-stack Developer",
+        "description": "At <b>DeepIQ</b>, I was invited to be part of the development team of the Data Studio application that turns any telemetric source or sensor into your data lake so you can execute machine learning algorithms, perform exploratory and descriptive analytics. You can automate the creation of your data lake from your relational data sources like Sequel, Oracle, SAP and OpenWorks without writing a single line of code. You can populate your data lake automatically with this drag and drop ETL (Extract-Transform-Load) app for structured and unstructured sources without hiring a dozen consultants to write or maintain point-to-point code."
+      }
+    ],
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "jQuery",
+      "MySQL",
+      "AWS",
+      "Java",
+      "Unit Tests",
+      "TDD"
+    ],
+    "medias": [
+      {
+        "icon": "youtube",
+        "title": "YouTube Data Studio Integration",
+        "http": "https://www.youtube.com/watch?v=Kb_HIr7YOPg"
+      },
+      {
+        "icon": "facebook",
+        "title": "Facebook DeepIQ",
+        "http": "https://www.facebook.com/DeepIQ/"
+      },
+      {
+        "icon": "linkedin",
+        "title": "Linkedin DeepIQ",
+        "http": "https://www.linkedin.com/company/deepiq16/"
+      }
+    ],
+    "backgroundUrl": "/live-resume/assets/template/experience/utrecht.jpg"
+  },
+  {
+    "id": 5,
+    "position": 5,
+    "startAt": "12-18-2017",
+    "endAt": "04-15-2020",
+    "companyName": "Marsplay",
+    "website": "https://marsplayapp.com/",
+    "logo": "/live-resume/assets/template/experience/logo/marsplayapp.jpeg",
+    "internationalizations": [
+      {
+        "language": "pt",
+        "city": "Uberaba",
+        "country": "Brasil",
+        "role": "Engenheiro de Software",
+        "description": "Na <b>QAT Global</b>, eu estava encarregado de ser o <i>Pod Leader</i> de back-end, trabalhando com <i>Big Data Analysis</i> para o maior fornecedor americano de tecnologia de água, que tem negócios em mais de <i>150 países</i>, permitindo que clientes em todo o mundo transportem, tratem, testem e usem água de maneira eficiente em instalações de utilidade pública, residencial, comercial, agrícola e industrial.<br><br>Na <i>QAT Global</i>, assegurei de que todos os desenvolvedores aplicassem as melhores práticas e padrões necessários para um aplicativo corporativo de <i>alta disponibilidade</i>, melhorando não apenas minhas habilidades técnicas, mas também as habilidades interpessoais."
+      },
+      {
+        "language": "en",
+        "city": "New Delhi",
+        "country": "India",
+        "role": "Full Stack Developer",
+        "description": "At <b>Marsplay</b>, I was in charge of being the <i>Pod Leader</i> in the back-end side, working with <i>Backend Systems</i>. Marsplay allows people to discover and share fashion & beauty trends while fully enjoying a high-quality shopping experience. The app helps you recreate any look from your wardrobe with the help of top fashion and beauty experts."
+      }
+    ],
+    "technologies": [
+      "Java",
+      "Elastic Search",
+      "Bull Queue",
+      "Javascript",
+      "jQuery",
+      "AngularJS",
+      "NoSQL",
+      "MongoDB",
+      "SQL",
+      "PostgreSQL",
+      "Unit Tests",
+      "Versioning Control",
+      "BitBucket",
+      "Git",
+      "Scrum",
+      "Linux"
+    ],
+    "medias": [
+      {
+        "icon": "linkedin",
+        "title": "Marsplay",
+        "http": "https://www.linkedin.com/company/marsplay/"
+      },
+      {
+        "icon": "facebook",
+        "title": "Marsplay DeepIQ",
+        "http": "https://www.facebook.com/marsplayco"
+      },
+      {
+        "icon": "youtube",
+        "title": "QAT Gobal Youtube",
+        "http": "https://www.youtube.com/channel/UC93bjJ5JhSIPVkTSfbJECqQ"
+      }
+    ],
+    "backgroundUrl": "/live-resume/assets/template/experience/uberaba.jpg"
+  },
+  {
+    "id": 6,
+    "position": 6,
+    "startAt": "05-01-2020",
+    "companyName": "Game Change Solutions",
+    "website": "http://gamechange.com/",
+    "logo": "/live-resume/assets/template/experience/logo/gamechange.png",
+    "internationalizations": [
+      {
+        "language": "pt",
+        "city": "Rotterdão",
+        "country": "Países Baixos",
+        "role": "Engenheiro Full-stack",
+        "description": "<b>Swisscom</b> é a empresa <b>#1</b> de telecomunicações e uma das principais empresas de TI da Suíça. Seus produtos e serviços variam de soluções B2C, como a Swisscom TV, a soluções de TI B2B em vários setores, como Bancos, Saúde, Energia, Entretenimento e Publicidade.<br><br>Na <i>Swisscom DevOps Center</i>, inovação e experimentação estão profundamente enraizadas no DNA da empresa. O ambiente multicultural com 15 nacionalidades, somado à cultura de <i>Tribos/Esquadrões</i>, contribui para colocar nós, funcionários, como parte de uma equipe virtual internacional, especializada em DevOps, entre várias outras tecnologias de ponta."
+      },
+      {
+        "language": "en",
+        "city": "Dubai",
+        "country": "UAE",
+        "role": "Full-stack Engineer",
+        "description": "<b>GameChange</b> GameChange Solutions was established in 2014 with an objective of disrupting the existing performance management and employee engagement practices at financial institutions through innovative concepts from behavioral science powered with a state-of-the-art technology platform"
+      }
+    ],
+    "technologies": [
+      "Java",
+      "Nats Streaming",
+      "Spring Boot",
+      "Angular",
+      "Typescript",
+      "Javascript",
+      "Versioning Control",
+      "DevOps",
+      "Jest",
+      "Docker",
+      "NPM",
+      "Gradle",
+      "Jira"
+    ],
+    "medias": [
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn Gamechange",
+        "http": "https://www.linkedin.com/company/gamechangesns/"
+      },
+      {
+        "icon": "facebook",
+        "title": "Facebook Swisscom",
+        "http": "https://www.facebook.com/gamechangesolutions/"
+      },
+      {
+        "icon": "youtube",
+        "title": "Youtube Gamechange",
+        "http": "https://www.youtube.com/watch?v=6Pdpbm4ThD8"
+      }
+    ],
+    "backgroundUrl": "/live-resume/assets/template/experience/rotterdam.jpg"
+  }
+]

@@ -27,14 +27,14 @@ export class AboutComponent implements OnInit, OnDestroy {
   }
 
   ngOnInit(): void {
-    this.name = 'Guilherme Borges Bastos' // Sets here, your full name
-    this.yearsOld = this.calcAge("1993-06-29"); // Sets here, your date birthday
+    this.name = 'Shanur Rahman' // Sets here, your full name
+    this.yearsOld = this.calcAge("1993-08-05"); // Sets here, your date birthday
 
     // Fetches the About information from the Data Service (about.json file).
     this.subscription = this.dataService.getAbout()
-        .subscribe((about: IAbout) => this.aboutData = about);
+      .subscribe((about: IAbout) => this.aboutData = about);
   }
-  
+
   ngOnDestroy() {
     // Only need to unsubscribe if its a multi event Observable
     this.subscription.unsubscribe();

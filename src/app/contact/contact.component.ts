@@ -14,12 +14,12 @@ import { Contact } from '../model/contact.model';
 })
 
 export class ContactComponent implements OnInit {
-  
+
   name: string;
   email: string;
   phone: string;
   location: string;
-    
+
   faEnvelope: IconDefinition;
   faPhone: IconDefinition;
   faMapMarkerAlt: IconDefinition;
@@ -32,18 +32,18 @@ export class ContactComponent implements OnInit {
   constructor(private contactService: ContactService) { }
 
   contactForm: FormGroup = new FormGroup({
-    name: new FormControl('',[
+    name: new FormControl('', [
       Validators.required,
       Validators.pattern("[A-zÀ-ú ]*")
     ]),
-    email: new FormControl('',[
+    email: new FormControl('', [
       Validators.required,
       Validators.pattern("^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$")
     ]),
-    message: new FormControl('',[
+    message: new FormControl('', [
       Validators.required
     ])
-  }); 
+  });
 
   get senderEmail() {
     return this.contactForm.get('email')
@@ -62,10 +62,10 @@ export class ContactComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.name = "Guilherme Borges Bastos";
-    this.email = "guilhermeborgesbastos@gmail.com";
-    this.phone = "+55 34 98400 9731";
-    this.location = "Uberaba, Minas Gerais - Brazil";
+    this.name = "Shanur Rahman";
+    this.email = "shanur.cse.nitap@gmail.com";
+    this.phone = "+919199946568";
+    this.location = "New Delhi, India";
 
     this.faEnvelope = faEnvelope;
     this.faPhone = faPhone;
@@ -77,15 +77,15 @@ export class ContactComponent implements OnInit {
     this.contactService.createContact(contact).then(() => {
       this.displayUserInterfaceMessage(true);
     })
-    .catch(error => {
-      this.displayUserInterfaceMessage(false);
-    });
+      .catch(error => {
+        this.displayUserInterfaceMessage(false);
+      });
   }
-  
+
   displayUserInterfaceMessage(hasBeenSuccessfuly: boolean) {
     this.isLoading = false;
     this.hasBeenSubmited = true;
-    this.feedbackStatus = hasBeenSuccessfuly? "success" : "error";
+    this.feedbackStatus = hasBeenSuccessfuly ? "success" : "error";
     this.contactForm.reset();
   }
 
