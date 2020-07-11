@@ -183,10 +183,10 @@
       },
       {
         "language": "en",
-        "city": "Utrecht",
-        "country": "Netherlands",
+        "city": "Hyderabad",
+        "country": "India",
         "role": "Full-stack Developer",
-        "description": "At <b>Skydreamer</b>, I was invited to be part of the development team of the first European mobile application that turns traveling with friends into a <i>Swipe and Match Game</i>, offering thousands of destinations all around the world. Always with the best offers for Flights, Hotels, apartments.<br><br>At <i>Skydreamer</i>, I had the amazing experience of a <i>startup environment</i>, the pros, and cons, expanding my mind of how to lead with the remote management, with short deadlines periods and very limited resources. In September 2017, with the 'Beta' version running and with several real users, we went to <i>TechCrunch Disrupt<i> - San Francisco where we received an offer from an international sports and entertainment agency."
+        "description": "At <b>DeepIQ</b>, I was invited to be part of the development team of the Data Studio application that turns any telemetric source or sensor into your data lake so you can execute machine learning algorithms, perform exploratory and descriptive analytics. You can automate the creation of your data lake from your relational data sources like Sequel, Oracle, SAP and OpenWorks without writing a single line of code. You can populate your data lake automatically with this drag and drop ETL (Extract-Transform-Load) app for structured and unstructured sources without hiring a dozen consultants to write or maintain point-to-point code."
       }
     ],
     "technologies": [
@@ -194,34 +194,27 @@
       "CSS3",
       "Javascript",
       "jQuery",
-      "PHP",
-      "Laravel",
-      "Slim Framework",
-      "React",
-      "React Native",
       "MySQL",
-      "Elastic Search",
       "AWS",
-      "Firebase",
       "Java",
-      "Android",
-      "Swift",
-      "iOS",
-      "Python (data scrapers)",
-      "Scrum",
       "Unit Tests",
       "TDD"
     ],
     "medias": [
       {
         "icon": "youtube",
-        "title": "YouTube Skydreamer",
-        "http": "https://www.youtube.com/channel/UCZ6_SqHB-Sdl7EHIXbvYoSw"
+        "title": "YouTube Data Studio Integration",
+        "http": "https://www.youtube.com/watch?v=Kb_HIr7YOPg"
       },
       {
         "icon": "facebook",
-        "title": "Facebook SkyDreamer App",
-        "http": "https://www.facebook.com/skydreamer.io/"
+        "title": "Facebook DeepIQ",
+        "http": "https://www.facebook.com/DeepIQ/"
+      },
+      {
+        "icon": "linkedin",
+        "title": "Linkedin DeepIQ",
+        "http": "https://www.linkedin.com/company/deepiq16/"
       }
     ],
     "backgroundUrl": "/live-resume/assets/template/experience/utrecht.jpg"
@@ -273,18 +266,18 @@
     "medias": [
       {
         "icon": "linkedin",
-        "title": "LinkedIn QAT Global",
-        "http": "https://www.linkedin.com/company/qat/"
+        "title": "Marsplay",
+        "http": "https://www.linkedin.com/company/marsplay/"
       },
       {
         "icon": "facebook",
-        "title": "Facebook QAT Global",
-        "http": "https://www.facebook.com/QATGlobal/"
+        "title": "Marsplay DeepIQ",
+        "http": "https://www.facebook.com/marsplayco"
       },
       {
         "icon": "youtube",
         "title": "QAT Gobal Youtube",
-        "http": "https://www.youtube.com/c/QatGlobal-USA"
+        "http": "https://www.youtube.com/channel/UC93bjJ5JhSIPVkTSfbJECqQ"
       }
     ],
     "backgroundUrl": "/live-resume/assets/template/experience/uberaba.jpg"
@@ -335,18 +328,18 @@
     "medias": [
       {
         "icon": "linkedin",
-        "title": "LinkedIn Swisscom",
-        "http": "https://www.linkedin.com/company/swisscom/"
+        "title": "LinkedIn Gamechange",
+        "http": "https://www.linkedin.com/company/gamechangesns/"
       },
       {
         "icon": "facebook",
         "title": "Facebook Swisscom",
-        "http": "https://www.facebook.com/Swisscom"
+        "http": "https://www.facebook.com/gamechangesolutions/"
       },
       {
         "icon": "youtube",
-        "title": "Youtube Swisscom",
-        "http": "https://www.youtube.com/swisscom"
+        "title": "Youtube Gamechange",
+        "http": "https://www.youtube.com/watch?v=6Pdpbm4ThD8"
       }
     ],
     "backgroundUrl": "/live-resume/assets/template/experience/rotterdam.jpg"
