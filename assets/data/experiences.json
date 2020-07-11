@@ -2,8 +2,8 @@
   {
     "id": 1,
     "position": 1,
-    "startAt": "01-02-2017",
-    "endAt": "11-30-2017",
+    "startAt": "01-04-2018",
+    "endAt": "01-05-2019",
     "companyName": "DeepIQ",
     "logo": "/live-resume/assets/template/experience/logo/deepiq.png",
     "internationalizations": [
@@ -55,8 +55,8 @@
   {
     "id": 2,
     "position": 2,
-    "startAt": "12-18-2017",
-    "endAt": "04-15-2020",
+    "startAt": "01-05-2019",
+    "endAt": "01-03-2020",
     "companyName": "Marsplay",
     "website": "https://marsplayapp.com/",
     "logo": "/live-resume/assets/template/experience/logo/marsplayapp.jpeg",
@@ -73,7 +73,7 @@
         "city": "New Delhi",
         "country": "India",
         "role": "Full Stack Developer",
-        "description": "At <b>Marsplay</b>, I was in charge of being the <i>Pod Leader</i> in the back-end side, working with <i>Backend Systems</i>. Marsplay allows people to discover and share fashion & beauty trends while fully enjoying a high-quality shopping experience. The app helps you recreate any look from your wardrobe with the help of top fashion and beauty experts."
+        "description": "At <b>Marsplay</b>, I was in charge of being the <i>Pod Leader</i> in the back-end side, working with <i>Backend Systems</i>. Founded by former YC Alum and serial entrepreneur, Marsplay is a socially curated shopping app, that seeks to employ the long tail of influencers to surface discovery & commerce of interesting fashion products and brands - fulfilling a felt need to stand out, in one’s attire and accessories, in the age of homogenised fast fashion. Marsplay targets 2 key constituents: the shoppers who seek a unique and distinctive fashion inspiration and, the long tail of creators who share their own inspirations and fashion takes on social channels to a loyal following that shares their aesthetic and fashion sensibilities. Marsplay provides the inspiration, with a ready & fast growing community of influencers and shoppers on the app, and then removes the friction to impulse buys, by providing a ready ‘buy’ button, thus creating immediate fulfilment for shoppers; affiliate revenues and a virtual and ready storefront at the moment of impulse, for influencers."
       }
     ],
     "technologies": [
@@ -116,7 +116,7 @@
   {
     "id": 3,
     "position": 3,
-    "startAt": "05-01-2020",
+    "startAt": "01-03-2020",
     "companyName": "Game Change Solutions",
     "website": "http://gamechange.com/",
     "logo": "/live-resume/assets/template/experience/logo/gamechange.png",
