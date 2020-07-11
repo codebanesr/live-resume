@@ -171,8 +171,8 @@
     "position": 4,
     "startAt": "01-02-2017",
     "endAt": "11-30-2017",
-    "companyName": "Skydreamer",
-    "logo": "/live-resume/assets/template/experience/logo/skydreamer-logo.png",
+    "companyName": "DeepIQ",
+    "logo": "/live-resume/assets/template/experience/logo/deepiq.png",
     "internationalizations": [
       {
         "language": "pt",
@@ -231,9 +231,9 @@
     "position": 5,
     "startAt": "12-18-2017",
     "endAt": "04-15-2020",
-    "companyName": "QAT Global",
-    "website": "https://www.qat.com/",
-    "logo": "/live-resume/assets/template/experience/logo/qat-global-logo.png",
+    "companyName": "Marsplay",
+    "website": "https://marsplayapp.com/",
+    "logo": "/live-resume/assets/template/experience/logo/marsplayapp.jpeg",
     "internationalizations": [
       {
         "language": "pt",
@@ -293,9 +293,9 @@
     "id": 6,
     "position": 6,
     "startAt": "05-01-2020",
-    "companyName": "Swisscom AG",
-    "website": "https://www.swisscom.ch/",
-    "logo": "/live-resume/assets/template/experience/logo/swisscom-logo.png",
+    "companyName": "Game Change Solutions",
+    "website": "http://gamechange.com/",
+    "logo": "/live-resume/assets/template/experience/logo/gamechange.png",
     "internationalizations": [
       {
         "language": "pt",
