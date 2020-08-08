@@ -29,7 +29,7 @@ export class AppComponent implements OnInit {
     ]);
 
     this.metaTagService.updateTag(
-      { name: 'description', content: "Hello, I'm a Full-stack Web Developer with 10+ years of experience designing web and mobile projects. Find out more in my live-resume!" }
+      { name: 'description', content: "Hello, I'm a Full-stack JavaScript Web Developer with 2+ years of experience designing web and mobile projects. Find out more in my live-resume!" }
     );
   }
 }
